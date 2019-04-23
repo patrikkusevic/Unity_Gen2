@@ -1,0 +1,9 @@
+Imamo dva bocna zida
+padaju sfere i kocke
+kocka daje bodove
+sfera restarta igru
+nakon odredenog broja bodova ubrzava se stvaranje objekata
+Kocke i sfere se stvaraju nasumicno
+Sa klikom neke tipke player ( pravokutnik) raste ili se smanjuje
+ako kocka prode igraca, a da ju igrac nije pokupio, 
+scena se resetira i game over 
