@@ -1,0 +1,6 @@
+DZ:
+
+Mjenjanje oružja (5 komada)
+Riješiti problem ontrigger za destroy, preko taga, da uništava odgovarajuce objekte
+Riješiti problem prikazivanja municije kad se mjenja oružje
+Pruciti Ienumerator
