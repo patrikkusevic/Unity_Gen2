@@ -1,0 +1,8 @@
+Skupljati Ammo - svako oružje svoji ammo
+zanimljiviji platformer
+barem 5 razina
+razliciti enemyi
+Odbijanje enemya, a potom nakon 0.5 sec umru
+prelazak sa razine na razinu ovisno o scoreu
+pomicne platforme
+build
